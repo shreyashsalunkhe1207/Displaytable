@@ -2,20 +2,19 @@
   <head>
     <style>
       table ,th ,td
-      {border :1px solid red j padding :5px ; text-align : lift ;}
+      {border :1px solid red ; padding :5px ; text-align : lift ;}
     </style>
   </head>
   <body>
-
-    <h2>basic table</h2>
-    <p> To add a caption to a table ,use the caption tag </p>
+    <h2> basic table </h2>
+    <p> To add a caption to a table ;use the caption tag </p>
 
     <table>
       <caption> Employee details </caption>
       <tr>
         <td> Name </td>
         <td> Age </td>
-        <th> Address </td>
+        <td> Address </td>
       </tr>
       <tr>
         <td> Shreyash </td>
