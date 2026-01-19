@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <style>
+      table ,th ,td
+      {border :1px solid red j padding :5px ; text-align : lift ;}
+    </style>
+  </head>
+  <body>
+
+    <h2>basic table</h2>
+    <p> To add a caption to a table ,use the caption tag </p>
+
+    <table>
+      <caption> Employee details </caption>
+      <tr>
+        <td> Name </td>
+        <td> Age </td>
+        <th> Address </td>
+      </tr>
+      <tr>
+        <td> Shreyash </td>
+        <td> 20 </td>
+        <td> Mumbai </td>
+      </tr>
+      <tr>
+        <td> Sujal </td>
+        <td> 21 </td>
+        <td> Dubai </td>
+      </tr>
+    </table>
+  </body>
+</html>
